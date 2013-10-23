@@ -9,3 +9,9 @@ anaru:
   last_name: "Utsuma"
   email: "Anaru@testmail.com"
   profile_name: "Anaru_21"
+
+zen:
+  first_name: "Zen"
+  last_name: "Wolf"
+  email: "Blackpaw@testmail.com"
+  profile_name: "ZenWolf"
